@@ -1,6 +1,6 @@
 <h1>Mockups</h1>
 <p>Pantalla principal de titulo</p>
-
+asdasdsda
 <p>Boceto de gameplay a mano</p>
 
 <h1>Especificaciones de tecnología</h1>
